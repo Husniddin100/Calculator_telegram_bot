@@ -26,8 +26,6 @@ public class CallBackController {
 
     }
 
-//    public static StringBuilder command = new StringBuilder();
-
     public static Map<Long, StringBuilder> map = new HashMap<>();
 
 
